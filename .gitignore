@@ -1,0 +1,59 @@
+# ==================================
+#  Archivos de Entorno Virtual Python
+# ==================================
+# Ignora las carpetas de entorno virtual en cualquier subdirectorio
+**/venv/
+
+# Nombres alternativos comunes para entornos virtuales
+.venv
+env/
+ENV/
+
+# ==================================
+#  Archivos de Caché y Compilados de Python
+# ==================================
+# Ignora las carpetas de caché en cualquier subdirectorio
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# ==================================
+#  Archivos de Compilación de PyInstaller
+# ==================================
+# Ignora las carpetas de compilación y distribución en cualquier subdirectorio
+**/build/
+**/dist/
+
+# Ignora los archivos de especificaciones de PyInstaller
+*.spec
+
+# ==================================
+#  Archivos de Configuración de IDEs y Editores
+# ==================================
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# ==================================
+#  Archivos de Sistema Operativo
+# ==================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# ==================================
+#  Archivos de Registro (Logs)
+# ==================================
+# Ignora cualquier archivo que termine en .log
+*.log

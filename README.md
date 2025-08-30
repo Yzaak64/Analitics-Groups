@@ -26,10 +26,10 @@ La suite se compone de un lanzador principal y tres módulos de análisis:
 Puedes probar la lógica central de cada aplicación directamente en tu navegador. Estas versiones se enfocan en los cálculos y la generación de gráficos, y no incluyen la interfaz gráfica completa.
 
 *   **Demo de Red Sociograma:**
-    [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D0cQItenmmMBM9mF4oSU6SOUdGvApeHn) Para poder ejecuar este notebook necesitas subir en drive la carpeta llamada "ProgramaSociograma" y asi finalmente poder ejecutar el notebook de Red_Sociograma (v2).
+    [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D0cQItenmmMBM9mF4oSU6SOUdGvApeHn) Para poder ejecuar este notebook necesitas subir en drive en "/content/drive/MyDrive" la carpeta llamada "ProgramaSociograma" y asi finalmente poder ejecutar el notebook de Red_Sociograma (v2).
 
 *   **Demo de Cuestionario Hemphill:**
-    [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16CYD5wdEWsZd34SYYGjg1xdC-EM8JEas) Para poder ejecuar este notebook necesitas subir en drive la carpeta llamada "ProgramaHemphill" y asi finalmente poder ejecutar el notebook de Interfaz Hemphill.
+    [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16CYD5wdEWsZd34SYYGjg1xdC-EM8JEas) Para poder ejecuar este notebook necesitas subir en drive en "/content/drive/MyDrive" la carpeta llamada "ProgramaHemphill" y asi finalmente poder ejecutar el notebook de Interfaz Hemphill.
 
 *   **Demo de SYMLOG:**
     [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IUehhFa_ZKf8C6r1WbK-cIpuSbRMRwGO)

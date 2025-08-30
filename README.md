@@ -12,7 +12,7 @@ La suite se compone de un lanzador principal y tres módulos de análisis:
 
 ## Requisitos del Sistema (para el instalador)
 
-*   Windows 10 o superior.
+*   Windows 10 o superior. (El ejecutable lo encuentras en Realase a la derecha de esta pagina)
 
 ## Instalación y Uso (Recomendado para Usuarios Finales)
 

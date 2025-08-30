@@ -26,7 +26,7 @@ La suite se compone de un lanzador principal y tres módulos de análisis:
 Puedes probar la lógica central de cada aplicación directamente en tu navegador. Estas versiones se enfocan en los cálculos y la generación de gráficos, y no incluyen la interfaz gráfica completa.
 
 *   **Demo de Red Sociograma:**
-    [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D0cQItenmmMBM9mF4oSU6SOUdGvApeHn) Para poder ejecuar este notebook necesitas subir a tu drive la carpeta de Colab que contiene los archivos necesarios para la ejecucion.
+    [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D0cQItenmmMBM9mF4oSU6SOUdGvApeHn) Para poder ejecuar este notebook necesitas crear en drive una carpeta llamada "ProgramaSociograma" para despues colocar dentro los archivos de la carpeta "Colab" y asi finalmente poder ejecutar el notebook de Red_Sociograma (v2).
 
 *   **Demo de Cuestionario Hemphill:**
     [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16CYD5wdEWsZd34SYYGjg1xdC-EM8JEas)

@@ -1,0 +1,27 @@
+# --- Dependencias principales de la aplicación SYMLOG ---
+pandas==2.2.2
+openpyxl==3.1.2
+matplotlib==3.8.4
+reportlab==4.2.0
+
+# --- Dependencias secundarias instaladas automáticamente ---
+# Requerido por matplotlib
+contourpy==1.2.1
+cycler==0.12.1
+fonttools==4.51.0
+kiwisolver==1.4.5
+packaging==24.0
+pillow==10.3.0
+pyparsing==3.1.2
+python-dateutil==2.9.0.post0
+
+# Requerido por pandas
+numpy==1.26.4
+pytz==2024.1
+tzdata==2024.1
+
+# Requerido por reportlab
+Pillow>=9.0.0 # Pillow ya está listado arriba, esto es solo informativo
+
+# Requerido por varias librerías
+six==1.16.0

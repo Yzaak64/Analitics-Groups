@@ -1,0 +1,19 @@
+# requirements.txt
+
+# --- GUI y Componentes Base ---
+FreeSimpleGUI
+Pillow
+
+# --- Análisis de Datos y Gráficos ---
+pandas
+numpy
+networkx
+matplotlib
+openpyxl
+
+# --- Generación de PDF ---
+reportlab
+xhtml2pdf
+
+# --- Navegador Embebido para Sociograma ---
+cefpython3

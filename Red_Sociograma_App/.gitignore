@@ -1,0 +1,58 @@
+# ===================================================================
+# .gitignore para Proyectos Python con PyInstaller y Entornos Virtuales
+# ===================================================================
+
+# --- Entornos Virtuales de Python ---
+# NUNCA subas estas carpetas. Contienen librerías específicas de tu PC.
+# Otros desarrolladores deben crear su propio entorno usando requirements.txt.
+venv/
+.venv/
+env/
+ENV/
+
+# Ruta específica de tu entorno virtual para Symlog_App
+Symlog_App/Symlog/
+
+
+# --- Artefactos de Compilación de PyInstaller ---
+# Estas carpetas se generan automáticamente al crear un ejecutable.
+# El `**/` asegura que se ignoren incluso si están dentro de subdirectorios.
+**/build/
+**/dist/
+
+# Los archivos .spec a veces se autogeneran. Descomenta la siguiente línea
+# si NO quieres guardar tu archivo .spec principal en el repositorio.
+# *.spec
+
+
+# --- Caché y Archivos Compilados de Python ---
+# Se generan automáticamente para que Python corra más rápido.
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# --- Archivos de Configuración del Editor/IDE ---
+# Ignora las configuraciones personales de tu editor de código.
+.vscode/
+.idea/
+
+
+# --- Archivos del Sistema Operativo ---
+# Archivos basura generados por Windows, macOS y Linux.
+.DS_Store
+Thumbs.db
+
+
+# --- Archivos de Secretos y Entorno ---
+# NUNCA subas archivos con contraseñas, tokens o claves de API.
+# Es una práctica estándar guardarlos en un archivo .env
+.env
+*.env
+
+
+# --- Archivos de Log y Temporales ---
+*.log
+*.tmp
+*.swp
